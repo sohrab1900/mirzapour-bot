@@ -1,8 +1,0 @@
-aiogram
-fastapi
-uvicorn
-httpx
-python-dotenv
-flask
-requests
-# و سایر کتابخانه‌هایی که در ربات استفاده کرده‌اید (مثل pyTelegramBotAPI یا aiogram)
